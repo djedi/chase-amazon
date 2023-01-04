@@ -1,6 +1,6 @@
 {
   "name": "Chase Amazon Search",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "manifest_version": 2,
   "description": "Adds a link to Chase.com transaction details page to search Amazon for the order number.",
   "homepage_url": "https://github.com/djedi/chase-amazon",
